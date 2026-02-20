@@ -1,0 +1,29 @@
+BlogPost021926
+Fleshing out the Blog More
+
+@2:13AM
+Earlier this evening and more so tonight I have been continuing to work on the blog. Instead of fake posts that are used as placeholders, over the past couple of days I have been making real posts for the blog. I made enough where I can actually start posting for real. Also I am trying to develop my own thematic style when making these posts.
+
+One idea I have is to make two types of posts, one type that is more freeform like this, which is free form and loose, and the other which would be more structure like an actually essay. The freeform ones should reflect the impromptu nature of the post. I am leaning towards a more Notes txt style like just like how I am writing this very blog post.
+
+The other more structured essays should have more of a formatted, Microsoft word type of feel. Bonus Points if I can make the CSS give a more Xeroxed Handout aesthetic.
+
+Very soon I also want to take this blog live, which brings two major tasks to my attention. For the benefit of easy web navigation, I need to get the paths correct, so a given user can clearly understand what http (path?) in the url takes you to the correct page. 
+
+The other major task that needs to be figured out is actually making a pipeline from my computer to Git so my workflow isn't as clunky. For example, if I do deploy my Blog using something like Vercel, can Vercel pull updates to the files from Git and whenever I make an edit or a new post, it'll automatically be updated to the deployed website. 
+
+I know there are key details that are holes in my understanding of how this works, which I will discover as I go. 
+
+Am I done working on the blog for now? Probably. The night is still young however, so let's see how I feel in a minute...
+
+@3:12AM
+I have been scouring my files for a misplaced essay I made. One about use of AI as a way to promote Web3. I may have to rewrite, which on one hand I am lazy, on the other hand it may solidify my opinions on the topic and further learning. I may have no choice, especially if I want to create an essay format and a journal format. 
+
+Maybe I can have some fun with the article, but god I am feeling lazy rn.
+
+@3:54AM
+Fiddling With the CSS can drive you crazy / is fun.
+
+@8:53AM
+Running out of steam but I am trying to "paginate" my blog posts so they feel a little more styled. The JS suggested is definitely longer and I will circle around back. 
+

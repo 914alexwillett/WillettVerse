@@ -1,0 +1,35 @@
+BlogPost021726
+Learning to Use React
+
+
+@6:41AM Right now I am following a youtube tutorial by "Programming with Mosh," called "React Tutorial for Beginners. This shouldn't be too much of a conniption, but at the pace that I do tutorials, it will probably take a couple of days. That's okay because when I work with ChatGPT, or if I venture to other AI models for coding, basic underlying knowledge of the JS Framework is necessary. React is very popular anyway so it'll will come in handy on my learning journey. 
+
+What I really must do is learn file pathing, this is the stuff that trips my up the most. 
+
+Also in this tutorial it recommender some "prettier" formatting plug-in for VS code. I wanted to make a note of it for future reference, however I am skeptic of using it. At this moment I am okay with the more basic the better.
+
+@6:51AM Other notes that can be useful for reference, it seems that whatever setup I have right now, windows prefers that I use the PowerShell prompt, there are useful commands such as "code ." to open up a IDE inside the folder that I want to be programming in. 
+
+Once I was in VS then writing "npm run dev" in the IDE's terminal it pulls up a link to a local host so I can view my app. I did not know any of this yesterday, so when I asked Chat to whip up a prototype for the macro-lab, I had no earthly clue how to run it. I can't run it like I have been during with my vanilla JS, html, css setup even though I do still like that set up for the blog. 
+
+At some point I should return to the blog development, but making posts by documenting the new project generates content that I can add to the blog to flesh it out a bit more. 
+
+@7:21AM turns out React is a library as opposed to a Framework. A library is like a tool, while a Framework is like a toolbox? Sounds like a riddle. Turns out it makes sense, so I can use React for the User Interface (UI), and then I can be more flexible with other components of my app based on what I need it to do, which you are limited with in other Frameworks such as Vue or Angular.
+
+@7:51AM I caved and used the prettier formatting tool in VS. I think this may slightly stunt my growth (anything that does something for me automatically will to a certain extent, but I like seeing my code formatted to the recommended convention, maybe I can pick up on some of these stylistic nuances.
+
+@12:51PM Existential angst. What is my purpose in life. I want to be a master of the universe. I am a broke peon. A sdrunk scoundrel. My bosses know, they choose not to mention it. Will it effect future employment? It depends how bad they want to fuck me. I may have to rebuild completely sober. "Say it ain't so" plays in the background. The algorithm has a sense of humor. 
+
+@1:08PM
+
+
+
+
+
+
+
+
+
+
+
+

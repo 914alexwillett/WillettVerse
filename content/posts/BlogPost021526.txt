@@ -1,0 +1,38 @@
+BlogPost021526
+Developing an App for FinEcon Analysis using AI
+
+Right now I am using my ChatGPT subscription to brainstorm a framework to vibecode further.
+This is the example prompt I used to start the project...
+"""
+I want to build a web application where I can use various tools to analyze economic and financial data for analysis. There are two purposes for this application, the primary one is for the end user (me) to better understand the interplay of multiple economic and market behavior, the emphasis on understanding is breaking things down visually and in text in a way that a regular person can understand. The next goal is to generate trade/investment thesis. Right now we are just planning things out and building a framework for execution.
+"""
+
+Interestingly ChatGPT interpreted this as a "thinking machine" instead of a dashboard. I like the concept of a dashboard but for the scope of this project a learning tool seems more important. 
+
+It then broke it down into to missions, Mission A is Cognitive Clarity “Help me understand how economic forces interact.” and Mission B being a Thesis Engine, “Help me form structured trade/investment ideas.”. For the record this project is incredibly bold and a large reach in my capabilities. 
+
+It has been broken down into 4 Layers:
+Layer 1: Data Ingestion
+Layer 2: Transformation & Metrics
+Layer 3: Visualization & Explanation
+Layer 4: Thesis Construction
+
+I will probably run this prompt on Claude, which I really want to try. I like a lot of the ideas the came from this query, 
+it is asking a lot of useful questions. Since I framed this as a planning mode chat. It's helping me refine the real goal of the project. I think I can fall into a trap that is asking way to much up front. I want a car that flies and tells me the weather, but it also a gaming PC, instead of I will start with this particular function, and then once that is ironed out, I will add this new feature. 
+
+--- next line of clarification questions ---
+
+I like that Chat guided me into going with a learning/understanding approach. This would be more beneficial in the long run to add additional features.
+
+I have had a fun back and forth with ChatGPT, but at 9:33am it seems to have timed me out. Here was like last response if I cant pick it up from here. 
+
+"""
+I find the market and the economy as two factors that interact non-linearly. It is confusing because I think general wisdom on what each indicator means doesn't always reflect what is actually going on fully. I would like some emphasis on correlation coefs and ANOVA. Narratives also do constantly change.
+"""
+
+Back at it, 9:35am
+probably just weird stutters. 
+
+***Side note maybe I can copy and paste portions of this conversation for a more interesting blog post. 
+
+Anyways I have more to follow up on in a new post. For now I am out 9:42AM 2/15/2026

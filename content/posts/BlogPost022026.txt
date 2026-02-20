@@ -1,0 +1,41 @@
+BlogPost022026
+The Glory Rolls On
+
+@1:21AM
+started messing with paginate again...
+
+@2:18AM
+I tried to paginate optio, which didn't pan out exactly like I wanted it to. The problem I think is the nuances in the file pathing. I want to keep the main page essentially looking like it has been, but I want to have the next page when loaded to be styled in the paginate style. 
+
+I think the main problem is my lack of understanding how html works when loading multiple pages. This requires more learning. Also I would need to rebuild the site from the ground up adding each bit piece by piece until I figured out what went wrong. As for now I still have a functioning site that works for me, so who cares.
+
+@2:39
+Next is trying to set up git, it always feels cool when I use bash in the terminal. If I get the GitHub setup I can actually play around with version control instead of the jank-ass copy file strategy I usually use. It does work, but I think it could be better.
+
+When trying the harder way generating a encrypted key for GitHub, this was generated. 
+
+"""
+The key fingerprint is:
+SHA256:+EDl9zfgawQx7TOc8bGL6cyIP2cAx2pPIM+Gpr26bwE 914alexwillett@gmail.com
+The key's randomart image is:
++--[ED25519 256]--+
+|        . o.     |
+|       o   oo .  |
+|      . ..oo.+ o |
+|    E...o.o+*.o  |
+|     .o=S=  +=o. |
+|      +o* o.oo.. |
+|     + +.+ *o    |
+|    . o . +.*    |
+|    o=o. ..+     |
++----[SHA256]-----+
+"""
+Which I thought looked cool. Terminal ASCII aesthetic still really appeals to me. I feel like a hacker and I like its elegant simplicity. 
+
+@3:02
+Using ChatGPT is actually insanely useful. Like insanely helpful. I have a personal tutor that explains, every step thats holding me back I can just ask for clarification. 
+
+
+
+
+

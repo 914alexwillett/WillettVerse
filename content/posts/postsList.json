@@ -1,0 +1,43 @@
+[
+  {
+    "title": "Developing an App for FinEcon Analysis using AI",
+    "date": "2026-02-15",
+    "summary": "The start of a new project using ChatGPT to assist in creating tool for developing more economic intuition.",
+    "url": "content/posts/BlogPost021526.txt"
+  },
+
+  {
+    "title": "Economic Learning App Part 2",
+    "date": "2026-02-16",
+    "summary": "While planning with Chat a series of clarifying questions help mold my vision of the App into something more concrete.",
+    "url": "content/posts/BlogPost021626.txt"
+  },
+
+  {
+    "title": "Learning to Use React",
+    "date": "2026-02-17",
+    "summary": "When actually starting to generate code for the project, I learned that I need to further my understand of tools like React.",
+    "url": "content/posts/BlogPost021726.txt"
+  },
+
+  {
+    "title": "Working on the WillettVerse",
+    "date": "2026-02-19",
+    "summary": "Today I work on the blog to post real, not placeholder content that I have been writing the past couple of days. Then I muse on future updates to make the Blog even better.",
+    "url": "content/posts/BlogPost021926.txt"
+  },
+
+  {
+    "title": "The Glory Rolls On",
+    "date": "2026-02-20",
+    "summary": "Trying and failing to paginate my blog posts. Setting up git.",
+    "url": "content/posts/BlogPost022026.txt"
+  },
+
+  {
+    "title": "BROKEN_CLOCK Chapter 1",
+    "date": "2026-02-20",
+    "summary": "First chapter of a Scifi novel I've been working on exploring egregores and financial apocalypes.",
+    "url": "content/posts/BROKEN_CLOCK_ch1.txt"
+  }
+]

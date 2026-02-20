@@ -1,0 +1,48 @@
+BlogPost021626
+Economic Learning App Part 2
+
+I voiced to the App my concerns for non-linearity and trying to ground things more in statistics over saying X causes Y. It stimulated an interesting point of framing things in terms of economic regimes as opposed to hard and fast rules that stay static. 
+
+"""
+Markets are conditional Systems, inflation rising does NOT mean `Stocks Down.` 
+It means: 
+- `Stocks down IF liquidity is tightening`
+- `Stocks go up IF growth is accelerating faster than inflation`
+- `Neutral IF inflation is already priced`
+"""
+
+Another interesting response was:
+"""
+Correlation is not a truth detector.
+It’s a state detector. Instead of `Correlation between CPI and SPX since 1990,` you want:
+
+-Rolling 6m correlation
+
+-Rolling 12m correlation
+
+-Correlation segmented by inflation regime
+
+-Correlation segmented by liquidity regime
+
+ Because relationships change.
+"""
+
+It claims that my app is becoming a macro systems laboratory. So it's not a basic dashboard, it's not a trading tool. Instead we're looking at aspects like conditional relationships, structural shifts, interaction effects, variance drivers.
+
+It warned my about the short comings of using ANOVA and Correlation with such a small sample size, history only happened once (that we are aware of). To auto generate regimes, rather than me manually coming up with them. This would use K-means clusters of various data points. 
+
+K-means clustering as a refresher takes multiple variables, groups time periods on similarity, and finds clusters of macro conditions. "The algorithm says: These periods are statistically similar across variables."
+
+**6:37AM**
+For the last portion of this session, I manually copied a prototype of the Marco-Lab app that OpenAI spun up. I don't really know React very well so that may be my next step on the learning journey. At some point I should cicle around back to my blog, but I want to get a better feel for my workflow when it comes to making blog posts. I really like the looseness and minimalist feel of typing in the notes app.
+Maybe using markdown and then converting them into posts is not needed. This is probably all for now. I have to start my day soon as it is Monday. 
+
+
+
+
+
+
+
+
+
+
