@@ -40,6 +40,38 @@ HEY HEY LOOK AT ME IF YOURE CONFUSED ALEX
 %$ MoxieBenny2@ <-------------- something to remember *wink *wink
 ##################################################################
 
+Next I connected my GitHub to my Vercel and then deployed! 
+
+@3:38AM
+*** We are live baby! ***
+https://willett-verse.vercel.app/
+
+
+Let's fucking go! 
+
+I still need to workout the workflow, but I think I can manage things for now. I will probably still mostly mess around remotely and add commits (<- probably not using that phrase correctly) occasionally or when I am done with a session. Either way I am so psyched. 
+
+I will probably coast for a little bit for now, but maybe I'll have more dialogue with Gippity later about the app. Maybe I'll do more of the react tutorial. Maybe I'll jerk it and fall asleep. Regardless I've made progress today and I am thankful for that.
+
+Now that it is LIVE I am looking at the http paths (also probably saying that wrong) and it feels like whenever I click on a link to the home page, it simply directs me to whichever .txt file I've been using, much like if I had a JPEG of a dog and the link I clicked directed me there. This isn't ideal. This is probably where I am getting into trouble. Maybe if I learn react I can upgrade the whole setup because it seems like the complexity of using a simple HTML + CSS + JS setup grows exponentially, the more features I want to add. That being said I still like the idea of keeping it bare bones as a tool for learning and a point of eloquent craftsmanship, but we will see. 
+
+@3:58AM
+Also I'm trying to watch accepted on my phone in the background.
+
+@4:03AM
+This is where I will end for the night. Peace out y'all.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
